@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/02/11 21:47:24.000.548,=C:\Users\Villela\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/19 19:49:56.000.406,=C:\Users\Villela\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/19 20:25:55.000.121,=C:\Users\Villela\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/08/19 20:27:03.000.424,C:\Users\Villela\Documents\Embarcadero\Studio\Projects\U_Data_Modulo.pas=C:\Users\Villela\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/08/19 20:27:03.000.424,C:\Users\Villela\Documents\Embarcadero\Studio\Projects\U_Data_Modulo.dfm=C:\Users\Villela\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2019/08/19 20:27:31.000.851,C:\Users\Villela\Documents\Embarcadero\Studio\Projects\U_Principal.pas=C:\Users\Villela\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/08/19 20:27:31.000.851,C:\Users\Villela\Documents\Embarcadero\Studio\Projects\U_Principal.dfm=C:\Users\Villela\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/08/20 19:14:21.000.339,C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\P_Agenda.dproj=C:\Users\Villela\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/08/26 19:13:43.000.882,=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/08/26 19:22:25.000.169,C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.dfm=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\U_CadastroBase.dfm</Transaction>
+    <Transaction>2019/08/26 19:22:25.000.169,C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.pas=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\U_CadastroBase.pas</Transaction>
+    <Transaction>2019/08/26 20:26:06.000.872,=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/08/26 20:27:44.000.796,C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\U_CadastroCidade.pas=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/08/26 20:27:44.000.796,C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\U_CadastroCidade.dfm=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.dfm</Transaction>
+    <Transaction>2019/09/02 19:37:30.000.261,=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/09/02 19:38:24.000.662,C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.pas=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\U_CadastroContatos.pas</Transaction>
+    <Transaction>2019/09/02 19:38:24.000.662,C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.dfm=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\U_CadastroContatos.dfm</Transaction>
+    <Transaction>2019/09/30 19:30:11.000.408,=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/09/30 19:30:29.000.902,=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/09/30 19:30:48.000.376,=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/09/30 19:31:55.000.861,=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/09/30 19:44:09.000.253,C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\U_CadastroAgenda.pas=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/09/30 19:44:09.000.253,C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\U_CadastroAgenda.dfm=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.dfm</Transaction>
+    <Transaction>2019/09/30 23:46:46.000.724,=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/09/30 23:48:13.000.601,C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.pas=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\U_ConsultaBase.pas</Transaction>
+    <Transaction>2019/09/30 23:48:13.000.601,C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.dfm=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\U_ConsultaBase.dfm</Transaction>
+    <Transaction>2019/09/30 23:51:55.000.590,=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/09/30 23:52:36.000.524,C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.pas=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\UCons_Contatos.pas</Transaction>
+    <Transaction>2019/09/30 23:52:36.000.524,C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.dfm=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\UCons_Contatos.dfm</Transaction>
+    <Transaction>2019/10/01 00:03:14.000.724,=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/10/01 00:03:43.000.279,C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.pas=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\UCons_Cidades.pas</Transaction>
+    <Transaction>2019/10/01 00:03:43.000.279,C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.dfm=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\UCons_Cidades.dfm</Transaction>
+    <Transaction>2019/10/01 00:50:16.000.950,=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.pas</Transaction>
+    <Transaction>2019/10/01 00:55:54.000.555,C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.pas=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\UCons_Agenda.pas</Transaction>
+    <Transaction>2019/10/01 00:55:54.000.555,C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\Unit1.dfm=C:\Users\Villela\Desktop\Faculdade - Aulas\4º Semestre - TDS\Xandao - Delphi BD\Agenda ACME\P_Agenda\UCons_Agenda.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
